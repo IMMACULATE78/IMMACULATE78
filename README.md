@@ -8,6 +8,7 @@ This assignment involves working with Python lists by performing various operati
 6. Sorted the list in ascending order.
 7. Found and printed the index of the value 30.
 8. Code implementation
+9. 
 my_list = []  
 my_list.append(10)  
 my_list.append(20)  
