@@ -4,8 +4,8 @@ I'm a Full Stack Developer who loves turning ideas into clean, functional,and us
 
 👩🏽‍💻 A bit about me.
 
-- 🔧 I specialize in full stack development – from frontend flair to backend logic.
-- 🌱 Always learning something new – right now it’s TypeScript and Docker.
+- 🔧 I specialize in full stack development ,from frontend flair to backend logic.
+- 🌱 Always learning something new , right now it’s TypeScript and Docker.
 - 💬 I love talking about code, creativity, and how tech can solve real problems.
 
 🚀 What I'm Working On
