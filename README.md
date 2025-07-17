@@ -1,6 +1,6 @@
  Hey there 👋 I'm Immaculate
 
-I'm a Full Stack Developer who loves turning ideas into clean, functional, and user-friendly web applications. Whether it’s designing sleek front-end interfaces or building powerful back-end systems.I enjoy crafting solutions that make a difference.
+I'm a Full Stack Developer who loves turning ideas into clean, functional,and user-friendly web applications. Whether it’s designing sleek front-end interfaces or building powerful back-end systems.I enjoy crafting solutions that make a difference.
 
 👩🏽‍💻 A bit about me.
 
